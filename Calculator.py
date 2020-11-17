@@ -19,7 +19,7 @@ def subtract(num1, num2):
 
 
 # Ask the user for what they want the two operands to be
-firstNum = input("Enter the first number\n")
+firstNum = input("Hello, Enter the first number\n")
 
 secondNum = input("Enter the second number\n")
 
